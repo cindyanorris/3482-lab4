@@ -88,7 +88,7 @@ void parseArgs(int32_t argc, char * argv[], std::string & filename,
    */
 
    /* Call printUsage if associativity, blockOffsetBits, 
-      setIndexBits, or the filename do not get initialize.
+      setIndexBits, or the filename do not get initialized.
    */
 }
 
